@@ -12,7 +12,6 @@ $curl = curl_init();
 		$response = curl_exec($curl);
 		$err = curl_error($curl);
 		curl_close($curl);
-
 		$response = json_decode($response, true); //because of true, it's in an array
 		$sample = $response;
 		?>
