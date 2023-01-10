@@ -1,4 +1,4 @@
-# polisdatabas
+# Polisdatabas
 Hämtar akutella händelser från Polisen.se
 
 # Discord
